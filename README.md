@@ -1,3 +1,4 @@
-# lco-graphql
+# basic-graphql-crud
 A standard babel setup
-Starter project setup for upcoming crash courses
+
+Customer Order Product Crud to up and running with GraphQL
